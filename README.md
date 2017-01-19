@@ -13,7 +13,3 @@ $ cd subs2anki
 $ chmod +x subs2anki.pl
 $ ./subs2anki.pl -s subtitle.ass -v video_file.mp4 -o deck.txt
 ```
-
-**Sample**
-
-![Sample Anki Card](http://hax.cm/e4.jpg "Sample Anki card")
